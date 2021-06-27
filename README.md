@@ -1,4 +1,4 @@
-### Hi there, **I'm Yash Saraswat** <img src="https://media.giphy.com/media/3o7WTFmAMnKd7DyrQY/giphy.gif" width="25px">
+### Hi there, I'm **Yash Saraswat** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-saraswat-b93a95179/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yashshsh_37/)
@@ -9,7 +9,7 @@ Hey there! This is just another Uni student trying to learn and develop.
 
 Feel free to check out my work (pree cool ngl), and contribute.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTFmAMnKd7DyrQY/giphy.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/pfpgif.gif" width="408" height="318" />
   
 
 **Talking about the Personal Stuff:**
