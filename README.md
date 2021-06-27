@@ -9,7 +9,7 @@ Hey there! This is just another Uni student trying to learn and develop.
 
 Feel free to check out my work (pree cool ngl), and contribute.
 
-<img align="right" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/pfpgif.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/pfpgif.gif" />
   
 
 **Talking about the Personal Stuff:**
