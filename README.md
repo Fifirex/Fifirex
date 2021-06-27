@@ -5,19 +5,21 @@
 
 ### Glad to see you here!
 
-idek...
+Hey there! This is just another Uni student trying to learn and develop. 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+Feel free to check out my work (pree cool ngl), and contribute.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTFmAMnKd7DyrQY/giphy.gif" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**Talking about the Personal Stuff:**
 
-- 👨🏻‍💻 null
-- 🚀 null
-- 💬 null
-- 📝 null
-- 📫 null
-- 📝 null
+- 👨🏻‍💻  null
+- 🚀  null
+- 💬  null
+- 📝  null
+- 📫  null
+- 📝  null
 
 </br>
 
