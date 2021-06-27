@@ -12,20 +12,18 @@ idek...
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 👨🏻‍💻 null
+- 🚀 null
+- 💬 null
+- 📝 null
+- 📫 null
+- 📝 null
 
 </br>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JavaScript   13 mins         █████████████████████████   100.00 % 
-```
+
 <!--END_SECTION:waka-->
 
 
