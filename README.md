@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashshsh_37/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yash.saraswat.549/)
 
-<img align="centre" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/bk2git.jpeg" />
+<img align="centre" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/upImg.jpeg" />
 
 ## Glad to see you here!
 
