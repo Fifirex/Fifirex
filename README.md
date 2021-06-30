@@ -29,8 +29,10 @@ Feel free to check out my work (pree cool ngl), and contribute.
 ### This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Python   30 mins         ██████████████▓░░░░░░░░░░   58.63 % 
-Other    21 mins         ██████████▒░░░░░░░░░░░░░░   41.37 % 
+Week: 23 June, 2021 - 29 June, 2021
+
+Python   30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.63 % 
+Other    21 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.37 % 
 ```
 <!--END_SECTION:waka-->
 
