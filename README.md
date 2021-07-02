@@ -41,3 +41,5 @@ Other    21 mins         ████████▒░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex)](https://github.com/anuraghazra/github-readme-stats)
