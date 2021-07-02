@@ -26,8 +26,7 @@ Feel free to check out my work (pree cool ngl), and contribute.
 ### This Week I Spent My Time On:
 [![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### My sTaTs:
-
+### 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
