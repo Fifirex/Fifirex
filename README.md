@@ -25,14 +25,7 @@ Feel free to check out my work (pree cool ngl), and contribute.
 </br>
 
 ### This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-```text
-Week: 25 June, 2021 - 01 July, 2021
-
-Python   43 mins         ████████████████▓░░░░░░░░   66.76 % 
-Other    21 mins         ████████▒░░░░░░░░░░░░░░░░   33.24 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My sTaTs:
@@ -41,7 +34,3 @@ Other    21 mins         ████████▒░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-
