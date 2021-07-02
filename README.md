@@ -12,8 +12,7 @@ Hey there! This is just another Uni student trying to learn and develop.
 
 Feel free to check out my work (pree cool ngl), and contribute.
 
-### Talking about the Personal Stuff: <img align="right" alt="GIF" src="https://github.com/Fifirex/Fifirex/blob/main/pfpgif.gif" width="346" height="318" /> 
-<!--- OG ratio = 500, 460. boiled to 408, 318 --->
+### Talking about the Personal Stuff:
 
 - 👨🏻‍💻  null
 - 🚀  null
@@ -25,7 +24,6 @@ Feel free to check out my work (pree cool ngl), and contribute.
 </br>
 
 ### This Week I Spent My Time On:
-
 [![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My sTaTs:
