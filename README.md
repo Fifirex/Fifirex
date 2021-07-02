@@ -42,4 +42,5 @@ Other    21 mins         ████████▒░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=Fifirex&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/anuraghazra/github-readme-stats)
+
