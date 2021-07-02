@@ -27,6 +27,6 @@ Feel free to check out my work (pree cool ngl), and contribute.
 
 ### Stats that *amaze*
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fifirex&show_icons=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </p>
