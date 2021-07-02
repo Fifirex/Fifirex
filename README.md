@@ -25,7 +25,7 @@ Feel free to check out my work (pree cool ngl), and contribute.
 </br>
 
 ### This Week I Spent My Time On:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### My sTaTs:
