@@ -21,7 +21,6 @@ Feel free to check out my work (pree cool ngl), and contribute.
 - 📫  null
 - 📝  null
 
-</br>
 
 ### This Week I Spent My Time On
 [![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
