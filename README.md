@@ -24,9 +24,6 @@ _Lot of cool stuff coming up in the near future (* excited noises *)_
 
 And I love Pizza :D
 
-### This week I spent my time on (idek why xD)
-[![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Stats that *amaze* 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fifirex&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
