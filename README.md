@@ -22,4 +22,4 @@ Basically a [1x.Engineer](https://1x.engineer/)
 
 ---
 
-Don't ask me what `Fifirex` means. I have no idea either.
+Don't ask me what `Fifirex` means. I have no idea either :p
