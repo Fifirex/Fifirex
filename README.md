@@ -20,6 +20,9 @@ _Lot of cool stuff coming up in the near future (* excited noises *)_
 
 Basically a [1x.Engineer](https://1x.engineer/)
 
+## This Week I Spent My Time On
+[![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
-Don't ask me what `Fifirex` means. I have no idea either :p
+> Don't ask me what `Fifirex` means. I have no idea either :p
