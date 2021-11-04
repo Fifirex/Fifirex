@@ -20,7 +20,7 @@ _Lot of cool stuff coming up in the near future (* excited noises *)_
 
 Basically a [1x.Engineer](https://1x.engineer/)
 
-## This Week I Spent My Time On
+## This week I spent my time on
 [![Fifirex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifirex&langs_count=6&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
